@@ -1,5 +1,9 @@
 package com.tms.document;
 
+import com.tms.exception.BeginsWith555Exception;
+import com.tms.exception.ContainsAbcException;
+import com.tms.exception.EndsWith1a2bException;
+
 /**
  *  В методе класса, в котором будут вызываться эти методы для демонстрации работы (содержит abc, начинается с 555, заканчивается на 1a2b),
  *  перехватить исключение конструкцией try-catch и в блоке catch вывести сообщение для пользователя(сообщение на консоль).

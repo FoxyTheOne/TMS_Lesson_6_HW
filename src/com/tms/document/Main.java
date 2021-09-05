@@ -1,5 +1,9 @@
 package com.tms.document;
 
+import com.tms.exception.BeginsWith555Exception;
+import com.tms.exception.ContainsAbcException;
+import com.tms.exception.EndsWith1a2bException;
+
 /**
  * 0. Добработать нулевое домашнее задание предыдущего урока.
  * Теперь надо создать свои классы исключений на каждую ситуацию:

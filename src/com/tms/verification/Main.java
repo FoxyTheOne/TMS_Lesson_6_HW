@@ -1,5 +1,8 @@
 package com.tms.verification;
 
+import com.tms.exception.WrongLoginException;
+import com.tms.exception.WrongPasswordException;
+
 /**
  * 1. Создать класс, в котором будет статический метод.
  * (почитать и понять, чем статический метод отличается от нестатического - обсудить на занятии по необходимости)
